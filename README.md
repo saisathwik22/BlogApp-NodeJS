@@ -4,7 +4,7 @@ It also enables user to create an account and login to it, write a blog and save
 It contains comment feature under each blog, and also allows to modify the comment.
 Users registered on this platform, will have visibility of comments written by other users.
 
-# Technologies used
+## Technologies used
 - Node.js
 - Express.js
 - MongoDB
